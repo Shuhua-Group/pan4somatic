@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use pan4somatic, please cite the software release and the associated manuscript."
+title: "pan4somatic: pangenome-assisted somatic variant analysis"
+type: software
+version: 1.0.4
+date-released: 2026-08-29
+authors:
+  - family-names: Tang
+    given-names: Xia
+license: MIT
+repository-code: "https://github.com/Shuhua-Group/pan4somatic"
